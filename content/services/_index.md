@@ -8,4 +8,7 @@ intro_image_hide_on_mobile: false
 
 # Services that grow with your business
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+We offer range of services according to the customer preference with technologies such as blockchain, augmented reality, virtual reality, artificial inteligence, internet of things, Dataops.
+
+We also have a wide range of product and platform such as DataBeagle,
+OCR, HIDO, EOL, 3D BUILDER, Augmently.

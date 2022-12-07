@@ -2,7 +2,7 @@ baseURL = "http://www.example.com"
 themesDir = "themes"
 theme = "hugo-serif-theme"
 languageCode = "en-us"
-title = "Hugo Serif Theme"
+title = "Hugo"
 
 [module]
   [module.hugoVersion]
@@ -21,7 +21,7 @@ title = "Hugo Serif Theme"
   [params.logo]
     mobile = "images/logo/logo-mobile.svg"
     mobile_height = "36px"
-    desktop = "images/logo/logo.svg"
+    desktop = "images/logo/image2vector.svg"
     desktop_height = "36px"
     alt = "Serif - A Hugo Business Theme"
 
@@ -55,9 +55,10 @@ title = "Hugo Serif Theme"
 [menu]
   # Main Menu
   [[menu.main]]
-    name = "Services"
+    name = ""
+    pre = '<button type="button">Services</button>'
     url = "/services/"
-    weight = 1
+    weight = 200
 
   [[menu.main]]
     name = "Team"
