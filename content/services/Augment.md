@@ -5,7 +5,7 @@ draft: false
 featured: true
 weight: 6
 ---
-|![Accounting Services](/images/artificial.jpg)|![Accounting Services](/images/jana.jpg)|
+|![Accounting Services](/images/artificial.jpg)|![Accounting Services](/images/team/smartworks-coworking-cW4lLTavU80-unsplash.jpg)|
 
 ## Capabilities
 

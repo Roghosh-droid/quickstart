@@ -1,9 +1,9 @@
 ---
-title: 'Tamara Ells'
+title: 'Harpreet Singh'
 date: 2018-12-20T13:44:55+10:00
 draft: false
-image: 'images/team/michael-dam-258165-unsplash.jpg'
-jobtitle: 'UI Designer'
+image: 'images/team/ha.jpg'
+jobtitle: 'Director Engineering'
 weight: 4
 ---
 
