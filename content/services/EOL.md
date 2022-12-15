@@ -6,6 +6,8 @@ draft: false
 weight: 4
 ---
 
+![Accounting Services](/images/artificial.jpg)
+
 The Information technology ecosystem is growing at a rapid pace with new systems being developed every day. There are new hardware, software, products, and solutions that are being released constantly into the market to ensure that the systems can be kept current and updated with regard to efficiency and security functionality and capabilities. But when a product has completed its useful life and support and updates are withdrawn, cybercriminals get huge opportunities to exploit security vulnerabilities and breach outdated security firewalls. That may cause widespread damage— like data corruption and theft of data.
 
 Data centers still using end-of-life technologies are more prone to such risks.
@@ -36,3 +38,14 @@ It helps the enterprises manage their applications’ data, perform reporting, a
 4. Improve the service quality for employees and customers.
 5. Help calculating total cost of ownership of an asset.
 6. Provide information on demand to manage the assets/ services better.
+
+
+
+{{< rawhtml >}}
+
+<video width=100% controls autoplay>
+<source src="/videos/360.webm" type="video/webm">
+Your browser does not support video tag.
+</video>
+
+{{< /rawhtml >}}

@@ -5,7 +5,17 @@ draft: false
 featured: true
 weight: 6
 ---
-|![Accounting Services](/images/artificial.jpg)|![Accounting Services](/images/team/smartworks-coworking-cW4lLTavU80-unsplash.jpg)|
+|![Accounting Services](/images/artificial.jpg)|This study was aimed at exploring the application value of augmented reality (AR) in postoperative rehabilitation training for patients with knee joint injury. 40 patients who underwent knee joint injury surgery were selected as the research objects, and the patients were randomly divided into two groups: an experimental group (20 cases) and a control group (20 cases). Patients in the experimental group were treated with AR-based rehabilitation methods, while those in the control group were treated with traditional rehabilitation methods. Afterwards, the two groups of patients were compared with various indicators such as pain value, swelling, structural and functional recovery, time to complete weight bearing, time to return to work, and X-ray examination results. The main evaluation tools used were Hospital for Special Surgery (HSS) score and Visual Analogue Scale (VAS) score. The results showed that after six weeks, the HSS score of the control group was , and the HSS score of the experimental group was . The difference between the two groups was statistically significant (). After three months, the HSS score of the control group was , and that of the experimental group was . The difference between the two groups was statistically significant (). There was a significant difference in pain scores between the two groups at 7 days ( vs. ) and 14 days ( vs. ) after surgery, with statistical significances ()|![Accounting Services](/images/team/smartworks-coworking-cW4lLTavU80-unsplash.jpg)|
+
+
+{{< rawhtml >}}
+
+<video width=100% controls autoplay>
+<source src="/videos/Playful.webm" type="video/webm">
+Your browser does not support video tag.
+</video>
+
+{{< /rawhtml >}}
 
 ## Capabilities
 

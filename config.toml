@@ -21,8 +21,8 @@ title = "Audax"
   [params.logo]
     mobile = "images/logo/logo-mobile.svg"
     mobile_height = "36px"
-    desktop = "images/logo/image2vector.svg"
-    desktop_height = "36px"
+    desktop = "images/logo/AudaxLabs.svg"
+    desktop_height = "200px"
     alt = "Serif - A Hugo Business Theme"
 
   [params.fonts]
@@ -55,8 +55,7 @@ title = "Audax"
 [menu]
   # Main Menu
   [[menu.main]]
-    name = ""
-    pre = '<button type="button">Services</button>'
+    name = "Services"
     url = "/services/"
     weight = 200
 

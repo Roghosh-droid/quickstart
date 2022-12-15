@@ -6,6 +6,15 @@ draft: false
 weight: 3
 ---
 
+{{< rawhtml >}}
+
+<video width=100% controls autoplay>
+<source src="/videos/Time Lapse.webm" type="video/webm">
+Your browser does not support video tag.
+</video>
+
+{{< /rawhtml >}}
+
 Hyper Intelligent Data Operations or HIDO, is built on top of, and works with, Hitachi Content Intelligence. HIDO allows companies to:
 
 Get visibility into enterprise data – including cost of storage across data stores
