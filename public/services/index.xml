@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on Audax</title>
+    <link>http://www.example.com/services/</link>
+    <description>Recent content in Services on Audax</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Nov 2018 15:15:34 +1000</lastBuildDate><atom:link href="http://www.example.com/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DataBeagle</title>
+      <link>http://www.example.com/services/databeagle/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>http://www.example.com/services/databeagle/</guid>
+      <description>DataBeagle offers ways to discovery of relevant sensitive information. The product has been created by Audax Labs in partnership with Hitachi Vantara. DataBeagle is built on top of HCP (Hitachi Content Platform) and HCI (Hitachi Content Intelligence).
+DataBeagle not only performs the active analysis of internal data designed to reduce risks associated with business practices but also provides the facilitation of legal processes associated with eDiscovery intended to reduce cost and time.</description>
+    </item>
+    
+    <item>
+      <title>OCR</title>
+      <link>http://www.example.com/services/ocr/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      
+      <guid>http://www.example.com/services/ocr/</guid>
+      <description>Audax Labs Document Engine converts and extracts the images from the input file (PDF, JPG, PNG, Doc etc.) and these images are further converted to a file containing the text.
+Benefits of OCR FASTER SEARCHES OCR can help in achieving higher productivity by facilitating faster searches to extract the relevant data. Allowing employees to focus on core competencies.
+REDUCED COST OCR helps in reducing several costs like printing, copying, shipping charge, hiring manpower for data extraction etc.</description>
+    </item>
+    
+    <item>
+      <title>Hyper Intelligent Data Operations</title>
+      <link>http://www.example.com/services/hido/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
+      
+      <guid>http://www.example.com/services/hido/</guid>
+      <description>&amp;lt;! -- raw html --&gt;Your browser does not support video tag. Hyper Intelligent Data Operations or HIDO, is built on top of, and works with, Hitachi Content Intelligence. HIDO allows companies to:
+Get visibility into enterprise data – including cost of storage across data stores Connect to a variety of data sources and analyze datasets Intelligently manage large dataset transfers HIDO helps organizations overcome their data challenges and is a smart way to get better insights from their data.</description>
+    </item>
+    
+    <item>
+      <title>EOL</title>
+      <link>http://www.example.com/services/eol/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
+      
+      <guid>http://www.example.com/services/eol/</guid>
+      <description>The Information technology ecosystem is growing at a rapid pace with new systems being developed every day. There are new hardware, software, products, and solutions that are being released constantly into the market to ensure that the systems can be kept current and updated with regard to efficiency and security functionality and capabilities. But when a product has completed its useful life and support and updates are withdrawn, cybercriminals get huge opportunities to exploit security vulnerabilities and breach outdated security firewalls.</description>
+    </item>
+    
+    <item>
+      <title>3D BUILDER TOOL</title>
+      <link>http://www.example.com/services/3d/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:54 +1000</pubDate>
+      
+      <guid>http://www.example.com/services/3d/</guid>
+      <description>&amp;lt;! -- raw html --&gt;Intuitive 3D Furniture Builder that offers unlimited creative freedom
+3D FURNITURE MODELING SERVICES Designers and manufacturers of furniture can now leverage the potential of 3D technology to make their prototypes appear more realistic. This assures more accuracy, reduced iterations, lesser production cost and ultimately more productivity.
+3D Builder offers 3D furniture modeling services to furniture manufacturers and designers all over the globe. Our experts can convert even the most complex furniture concepts into seamless high and low poly 3D versions that appear realistic.</description>
+    </item>
+    
+    <item>
+      <title>Augmently</title>
+      <link>http://www.example.com/services/augment/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>http://www.example.com/services/augment/</guid>
+      <description>||This study was aimed at exploring the application value of augmented reality (AR) in postoperative rehabilitation training for patients with knee joint injury. 40 patients who underwent knee joint injury surgery were selected as the research objects, and the patients were randomly divided into two groups: an experimental group (20 cases) and a control group (20 cases). Patients in the experimental group were treated with AR-based rehabilitation methods, while those in the control group were treated with traditional rehabilitation methods.</description>
+    </item>
+    
+  </channel>
+</rss>
