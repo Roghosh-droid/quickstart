@@ -1,3 +1,7 @@
+[submodule "themes/hugo-serif-theme"]
+	path = themes/hugo-serif-theme
+	url = https://github.com/zerostaticthemes/hugo-serif-theme.git themes/hugo-serif-theme
+
 [submodule "quickstart"]
-	path = 'themes/hugo-serif-theme'
+	path = quickstart
 	url = https://github.com/Roghosh-droid/quickstart.git
