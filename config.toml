@@ -1,4 +1,4 @@
-baseURL = "http://www.example.com"
+baseURL = "https://639c42fe60b8490c3c95521a--teal-nougat-fa123f.netlify.app/"
 themesDir = "themes"
 theme = "hugo-serif-theme"
 languageCode = "en-us"
