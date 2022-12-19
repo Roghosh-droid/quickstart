@@ -1,0 +1,23 @@
+https://github.com/zerostaticthemes/hugo-serif-theme
+
+
+https://github.com/Roghosh-droid/quickstart.git
+
+
+[submodule "themes/hugo-serif-theme"]
+	path = themes/hugo-serif-theme
+	url = https://github.com/zerostaticthemes/hugo-serif-theme
+
+[submodule "quickstart"]
+	path = quickstart
+	url = https://github.com/Roghosh-droid/quickstart.git
+
+
+https://github.com/zerostaticthemes/hugo-serif-theme
+
+
+
+https://639c42fe60b8490c3c95521a--teal-nougat-fa123f.netlify.app/services/hido/
+
+
+https://639c42fe60b8490c3c95521a--teal-nougat-fa123f.netlify.app/
