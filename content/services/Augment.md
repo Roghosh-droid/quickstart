@@ -17,6 +17,16 @@ Your browser does not support video tag.
 
 {{< /rawhtml >}}
 
+{{< rawhtml >}}
+
+<video width=100% controls autoplay>
+<source src="/videos/matrix.mp4" type="video/mp4">
+Your browser does not support video tag.
+</video>
+
+{{< /rawhtml >}}
+
+
 ## Capabilities
 
 Augmently lets your sales teams showcase furniture in augmented reality—allowing them to access and present limitless product combinations in real time, in the client’s own space.
