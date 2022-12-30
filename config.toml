@@ -1,4 +1,4 @@
-baseURL = "https://example.com//"
+baseURL = "https://audaxlabs.netlify.app/"
 themesDir = "themes"
 theme = "hugo-serif-theme"
 languageCode = "en-us"
